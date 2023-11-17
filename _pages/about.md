@@ -11,10 +11,10 @@ redirect_from:
 I am a Ph.D. student at the department of Computer Science, Johns Hopkins University, MD, USA.
 I am currently a member of [SMARTS Lab](https://smarts.lcsr.jhu.edu/) and advised by Dr. Peter Kazanzides and co-advised by Dr. Russell H Taylor.
 
-I received my BS(2019) and MS(2021) in in Mechanical Engineering from the University of Tokyo, Japan, advised by Dr. Mamoru Mitsuishi, and Dr. Kanako Harada.
+I received my BS(2019) and MS(2021) in Mechanical Engineering from the University of Tokyo, Japan, advised by Dr. Mamoru Mitsuishi, and Dr. Kanako Harada.
 
 
-My work is focused on teleoperated/semi-automomous robots applied to medicince, surgical VR simulator and the intersection of these technology.
+My work is focused on teleoperated/semi-autonomous robots applied to medicine, surgical VR simulator, and the intersection of these technologies.
 
 ## <i class="fas fa-rss "></i>   Updates
   10.01.2023 &nbsp; Presented two papers at IROS2023 @Detroit\\
