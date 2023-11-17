@@ -8,7 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student at Johns Hopkins University.
+I am a Ph.D. student at the department of Computer Science, Johns Hopkins University, MD, USA.
+I am currently a member of [SMARTS Lab](https://smarts.lcsr.jhu.edu/) and advised by Dr. Peter Kazanzides and  Dr. Russell H Taylor.
+
+I received my BS(2019) and MS(2021) in in Mechanical Engineering from the University of Tokyo, Japan, advised by Dr. Mamoru Mitsuishi, and Dr. Kanako Harada.
+
+
+My work is focused on teleoperated/semi-automomous robots applied to medicince, surgical VR simulator and the intersection of these technology.
+
+## <i class="fas fa-rss "></i>   Updates
+  10.01.2023 &nbsp; Presented two papers at IROS2023 @Detroit\\
+  09.01.2021 &nbsp; Started Ph.D. at LCSR, JHU
+
+<hr>
+## <i class="fas fa-solid fa-video"></i>  Paper-related Videos
+
+
+<iframe width="290" height="160" src="https://www.youtube.com/embed/1KYWtf3M0zg?si=aFVSVGghwuLEvcXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ## <<i class="ai ai-circle ai-stack-2x"></i>  Test -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
