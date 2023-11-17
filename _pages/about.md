@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student at the department of Computer Science, Johns Hopkins University, MD, USA.
-I am currently a member of [SMARTS Lab](https://smarts.lcsr.jhu.edu/) and advised by Dr. Peter Kazanzides and  Dr. Russell H Taylor.
+I am currently a member of [SMARTS Lab](https://smarts.lcsr.jhu.edu/) and advised by Dr. Peter Kazanzides and co-advised by Dr. Russell H Taylor.
 
 I received my BS(2019) and MS(2021) in in Mechanical Engineering from the University of Tokyo, Japan, advised by Dr. Mamoru Mitsuishi, and Dr. Kanako Harada.
 
