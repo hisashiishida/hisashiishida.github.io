@@ -21,10 +21,12 @@ My work is focused on teleoperated/semi-autonomous robots applied to medicine, s
   09.01.2021 &nbsp; Started Ph.D. at LCSR, JHU
 
 <hr>
-## <i class="fas fa-solid fa-video"></i>  Paper-related Videos
+## <i class="fas fa-solid fa-video"></i>  Short clips
+For more information, please visit [here](https://hisashiishida.github.io/research/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LNoNgDbfnfo?si=PqvR9Q6LMOvdnUCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="290" height="160" src="https://www.youtube.com/embed/1KYWtf3M0zg?si=aFVSVGghwuLEvcXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nug3jP3JkeM?si=-b4ypLTXbPKrDxLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- ## <<i class="ai ai-circle ai-stack-2x"></i>  Test -->
 
