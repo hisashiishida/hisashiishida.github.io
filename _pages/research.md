@@ -15,4 +15,4 @@ author_profile: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9c-F3iZjzI?si=w4nYqqf0wNnOIkDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### ICRA'20 Virtual Fixture Assistance for Suturing in Robot-Aided Pediatric Endoscopic Surgery
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KYWtf3M0zg?si=odJRKDGz1iM9uvFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KYWtf3M0zg?si=odJRKDGz1iM9uvFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
