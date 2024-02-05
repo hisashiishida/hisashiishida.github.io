@@ -28,4 +28,4 @@ author_profile: true
 
 </style>
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/hisashiishida/hisashiishida.github.io/master/files/hisashiishida.bib&jsonp=1&group0=custom_type&css=hisashiishida.github.io/_sass/_bibbase.css&folding=0&nocache=1"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/hisashiishida/hisashiishida.github.io/master/files/hisashiishida.bib&jsonp=1&group0=custom_type&css=hisashiishida.github.io/_sass/_bibbase.css&folding=0&nocache=1&owner=Ishida"></script> 
