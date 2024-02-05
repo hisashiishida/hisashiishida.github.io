@@ -26,6 +26,7 @@ Education
 |     |     |     |
 | --- | --- | --- |
 |08/2021 --- Today|**Ph.D. student in Computer Science** | **Johns Hopkins University**|
+|08/2021 --- 05/2023| Master of Science in Computer Science | Johns Hopkins University|
 |04/2021 --- 08/2021|Ph.D. student in Mechanical Engineering | The University of Tokyo|
 |04/2019 --- 03/2021| Master of Science in Mechanical Engineering | The University of Tokyo|
 |02/2017 --- 05/2017| Special Student Program, Mechanical Engineering|Massachusetts Institute of Technology|
