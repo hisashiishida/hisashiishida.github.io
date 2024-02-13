@@ -17,7 +17,7 @@ I received my BS(2019) and MS(2021) in Mechanical Engineering from the Universit
 My work is focused on teleoperated/semi-autonomous robots applied to medicine, surgical VR simulator, and the intersection of these technologies.
 
 ## <i class="fas fa-rss "></i>   Updates
-  01.29.2024 &nbsp; Paper accepted at ICRA2024 @Yokohama, Japan\\
+  01.29.2024 &nbsp; Paper accepted for ICRA2024 @Yokohama, Japan\\
   10.01.2023 &nbsp; Presented two papers at IROS2023 @Detroit\\
   09.01.2021 &nbsp; Started Ph.D. at LCSR, JHU
 
