@@ -26,7 +26,7 @@ My work is focused on teleoperated/semi-autonomous robots applied to medicine, s
 ## <i class="fas fa-solid fa-video"></i>  Short clips
 For more information, please visit [here](https://hisashiishida.github.io/research/).
 
-<iframe width="560" height="315" src="https://youtu.be/YXPPZA4LDeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YXPPZA4LDeQ?si=8zp5n_VZOEf5iFwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/LNoNgDbfnfo?si=PqvR9Q6LMOvdnUCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
