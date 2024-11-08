@@ -11,10 +11,10 @@ redirect_from:
 I am a Ph.D. student at the department of Computer Science, Johns Hopkins University, MD, USA.
 I am currently a member of [SMARTS Lab](https://smarts.lcsr.jhu.edu/) and advised by Dr. Peter Kazanzides and co-advised by Dr. Russell H Taylor.
 
-I received my BS (2019) and MS (2021) in Mechanical Engineering from the University of Tokyo, Japan, advised by Dr. Mamoru Mitsuishi, and Dr. Kanako Harada.
+I received my BS (2019) and MS (2021) in Mechanical Engineering from the University of Tokyo, Japan, advised by Dr. Mamoru Mitsuishi, and Dr. Kanako Harada. I also received MS (2023) in Computer Science from Johns Hopkins University.
+I have been fortunate to collaborate with many brilliant minds at Intuitive, at the University of Tokyo and at JHU. 
 
-
-My work is focused on teleoperated/semi-autonomous robots applied to medicine, surgical VR simulator, and the intersection of these technologies.
+My work is focused on teleoperated/semi-autonomous robots applied to medicine, surgical VR simulator, Computer Vision, and the intersection of these technologies.
 
 ## <i class="fas fa-rss "></i>   Updates
   05.17.2024 &nbsp; Presented one paper at ICRA2024 @Yokohama\\
