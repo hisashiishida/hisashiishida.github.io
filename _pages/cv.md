@@ -18,7 +18,7 @@ Work experience
 |     |     |     |
 | --- | --- | --- |
 |<img src="../images/JHU_logo.jpg" height="35" width="50"> |08/2021 --- Today| CS PhD Student | Johns Hopkins University |
-|<img src="../images/intuitive_logo.png" height="35" width="50">|05/2024 --- 08/2024| Computer Vision Software Engineering Intern | Intuitive |
+|<img src="../images/intuitive_logo.png" height="20" width="50">|05/2024 --- 08/2024| Computer Vision Software Engineering Intern | Intuitive |
 |<img src="../images/JSPS_log.svg" height="35" width="50">|04/2021 --- 08/2021| JSPS Research Fellow (DC1) | The University of Tokyo |
 
 Education 
