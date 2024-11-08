@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 ## Presentations 
 
+### IROS'24 Haptic-Assisted Collaborative Robot Framework for Improved Situational Awareness
+<iframe width="560" height="315" src="https://youtu.be/YXPPZA4LDeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### IROS'23 Improving Surgical Situational Awareness with Signed Distance Field
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9F_i4He1CI?si=HITd4HMZ3Mya8OHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

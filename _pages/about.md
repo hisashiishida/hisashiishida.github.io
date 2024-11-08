@@ -17,7 +17,8 @@ I received my BS (2019) and MS (2021) in Mechanical Engineering from the Univers
 My work is focused on teleoperated/semi-autonomous robots applied to medicine, surgical VR simulator, and the intersection of these technologies.
 
 ## <i class="fas fa-rss "></i>   Updates
-  01.29.2024 &nbsp; Paper accepted for ICRA2024 @Yokohama, Japan\\
+  05.17.2024 &nbsp; Presented one paper at ICRA2024 @Yokohama\\
+  05.11.2024 &nbsp; Received Best Inovatoion Award at [MRC Symposium 2024](https://www.mrc-cuhk.com/event/mrc-symposium-2024) \\
   10.01.2023 &nbsp; Presented two papers at IROS2023 @Detroit\\
   09.01.2021 &nbsp; Started Ph.D. at LCSR, JHU
 
@@ -25,9 +26,11 @@ My work is focused on teleoperated/semi-autonomous robots applied to medicine, s
 ## <i class="fas fa-solid fa-video"></i>  Short clips
 For more information, please visit [here](https://hisashiishida.github.io/research/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LNoNgDbfnfo?si=PqvR9Q6LMOvdnUCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/YXPPZA4LDeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nug3jP3JkeM?si=-b4ypLTXbPKrDxLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/LNoNgDbfnfo?si=PqvR9Q6LMOvdnUCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nug3jP3JkeM?si=-b4ypLTXbPKrDxLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <!-- ## <<i class="ai ai-circle ai-stack-2x"></i>  Test -->
 
