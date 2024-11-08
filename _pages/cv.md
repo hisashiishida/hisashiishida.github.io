@@ -17,8 +17,9 @@ Work experience
 
 |     |     |     |
 | --- | --- | --- |
-|08/2021 --- Today| CS PhD Student | Johns Hopkins University |
-|04/2021 --- 08/2021| JSPS Research Fellow (DC1) | The University of Tokyo |
+|<img src="../images/JHU_logo.jpg" width="50" height="35"> |08/2021 --- Today| CS PhD Student | Johns Hopkins University |
+|<img src="../images/intuitive_logo.png" width="50" height="35">|05/2024 --- 08/2024| Computer Vision Software Engineering Intern | Intuitive |
+|<img src="../images/JSPS_log.svg" width="50" height="35">|04/2021 --- 08/2021| JSPS Research Fellow (DC1) | The University of Tokyo |
 
 Education 
 =========
@@ -38,6 +39,7 @@ Awards
 
 |     |     |     |
 | --- | --- | --- |
+|2024| Best Innovation Award | [MRC Symposium 2024](https://www.mrc-cuhk.com/event/mrc-symposium-2024) | 
 |2023| Honorable Mention <br> Title: “Surgical Gesture Recognition in Videos and Kinematic Data.”| EN601.682 Machine Learning: Deep Learning course, Johns Hopkins University| 
 |2021|  Dean’s Award | The University of Tokyo |
 |2020| Excellent Paper Award | 16th Asian Conference on Computer Aided Surgery |
