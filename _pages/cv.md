@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV can be found [here](/files/Resume_Hisashi.pdf)
+Full CV can be found [here]()
 - [Google Scholar](https://scholar.google.com/citations?user=mk4sVC8AAAAJ)
 
 Work experience
@@ -18,6 +18,7 @@ Work experience
 |     |     |     |
 | --- | --- | --- |
 |<img src="../images/JHU_logo.jpg" height="35" width="50"> |08/2021 --- Today| CS PhD Student | Johns Hopkins University |
+|<img src="../images/intuitive_logo.png" height="20" width="50">|06/2025 --- 08/2025| Computer Vision Software Engineering Intern | Intuitive |
 |<img src="../images/intuitive_logo.png" height="20" width="50">|05/2024 --- 08/2024| Computer Vision Software Engineering Intern | Intuitive |
 |<img src="../images/JSPS_log.svg" height="35" width="50">|04/2021 --- 08/2021| JSPS Research Fellow (DC1) | The University of Tokyo |
 
@@ -53,6 +54,7 @@ Scholarships and travel grants
 
 |     |     |     |
 | --- | --- | --- |
+|2025 --- 2026| JASSO fellowship | Japan Student Services Organization |
 |2021 --- 2023| ITO Foundation fellowship | ITO Foundation |
 |2021| JSPS DC1 fellowship  | Japan Society for the Promotion of Science (JSPS) |
 |2019| Master's scholarship | Global Leader Program for Social Design and Management <br> The University of Tokyo |
